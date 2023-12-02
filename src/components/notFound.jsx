@@ -1,0 +1,13 @@
+import { Link } from "react-router-dom";
+
+const NotFound = () => (
+  <>
+    <h1>404!</h1>
+    <p>
+      Lamento. Essa página não existe ou foi removida <br />
+      <Link to="/">Votar para Tabela de agendamentos</Link>
+    </p>
+  </>
+);
+
+export default NotFound;
