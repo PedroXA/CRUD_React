@@ -7,7 +7,6 @@ O projeto consiste em um CRUD simples que permite ao usuário criar, ler, atuali
 ## Tecnologias utilizadas 💻
 * React
 * ViteJS
-* TypeScript
 
 
 ## Instalação
